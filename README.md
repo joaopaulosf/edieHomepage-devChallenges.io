@@ -1,2 +1,2 @@
 # edieHomepage-devChallenges.io
- Edie Homepage - devChallenge.io
+ Edie homepage - devChallenge.io
